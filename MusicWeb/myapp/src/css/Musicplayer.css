@@ -1,0 +1,151 @@
+.player{
+    width: 100%;
+  }
+  
+  .progress-bar{
+    width: 100%;
+  }
+  
+  
+  .progress-player{
+    margin: 0 auto;
+  }
+  
+  .dashboard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header-player{
+    display: flex;
+    flex-grow: 1;
+  }
+  .heading{
+    margin-left: 5px;
+  }
+  .control-player{
+    flex-grow: 10;
+  }
+  .control{
+    display: flex;
+    justify-content: center;
+  }
+  .timeStart{
+    font-size: 20px;
+  }
+  .timeEnd{
+    font-size: 20px;
+  }
+  .btn-control{
+    padding: 10px;
+  }
+  #CD{
+    width: 68px;
+    border-radius: 50%;
+    line-height: 68px;
+  }
+  .btn-volum{
+    margin-right: 10px;
+  }
+  .volum{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  #progress-volum{
+    display: flex;
+    width: 100%;
+  }
+  .btn-control{
+    margin: 10px;
+  }
+  .progress::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 6px;
+    background-color: var(--primary-color);
+    cursor: pointer;
+  }
+  #progress-bar{
+    width: 100%;
+
+  }
+  .progress {
+    width: 100%;
+    -webkit-appearance: none;
+    height: 6px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: 0.2s;
+    transition: opacity 0.2s;
+  }
+  .progress-bar{
+    background: none;
+    height: 6px;
+    -webkit-appearance: none;
+    outline: none;
+    line-height: 16px;
+  }
+  .null{
+    display: none;
+  }
+  .icon-pause{
+    display: none;
+  }
+  .icon-play{
+    display: inline-block;
+  }
+  .icon-loading{
+    display: none;
+  }
+  .control-player.playing .icon-pause {
+    display: inline-block;
+  }
+  .control-player.playing .icon-play {
+    display: none;
+  }
+  .control-player.playing .icon-loading {
+    display: none;
+  }
+  .control-player.loading .icon-pause {
+    display: none;
+  }
+  .control-player.loading .icon-play {
+    display: none;
+  }
+  .control-player.loading .icon-loading {
+    display: inline-block;
+  }
+  .icon-mute{
+    display: none;
+  }
+  .icon-volum{
+    display: inline-block;
+  }
+  .volum.setVolum .icon-mute {
+    display: inline-block;
+  }
+  .volum.setVolum .icon-volum {
+    display: none;
+  }
+  .volum.setVolum #progress-volum {
+    display: none;
+  }
+  .control-player.repeateMode .btn-repeat {
+    opacity: 0.7;
+  }
+  .control-player.repeateMode .btn-random {
+    opacity: 1;
+  }
+  .control-player.randomMode .btn-repeat {
+    opacity: 1;
+  }
+  .control-player.randomMode .btn-random {
+    opacity: 0.7;
+  }
+  .header-player.animation{
+    -webkit-animation:fa-spin 1.5s infinite linear;animation:fa-spin 1.5s infinite linear;
+  }

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "60ad058fe585432154b4386e"
+  },
+  "songs": [
+    {
+      "$oid": "60ad0378f1384b244c0b56bd"
+    },
+    {
+      "$oid": "60ad097571fea232c415d45b"
+    },
+    {
+      "$oid": "60ad099e71fea232c415d45c"
+    },
+    {
+      "$oid": "60ad0a0a71fea232c415d45d"
+    }
+  ],
+  "name": "Mr. Siro",
+  "isPublic": true,
+  "img": "MrSiroPlaylist.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-05-25T14:11:27.913Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T17:26:37.047Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b64689e5c4bb22d8560008"
+  },
+  "songs": [
+    {
+      "$oid": "60b64f461b33d20454d6f46e"
+    },
+    {
+      "$oid": "60b6502c2cad6a279c9ebbb8"
+    },
+    {
+      "$oid": "60c8d19c4caed628242d30bc"
+    }
+  ],
+  "name": "Phan Mạnh Quỳnh",
+  "isPublic": true,
+  "img": "16471f6a99973aacf29561099905a729.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-01T14:39:05.817Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T15:00:11.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8d4688132eb195c113a97"
+  },
+  "songs": [],
+  "name": "Sơn Tùng MTP",
+  "isPublic": true,
+  "img": "4a91d506fc7144c7716b9d3166f2c4b6.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-15T16:25:12.601Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T16:25:12.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8d4d28132eb195c113a98"
+  },
+  "songs": [
+    {
+      "$oid": "60c8e3caa5370627e88d9381"
+    }
+  ],
+  "name": "Nguyên Hà",
+  "isPublic": true,
+  "img": "6829c0ba90f02831713573b2fa1bb0df.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-15T16:26:58.663Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T17:37:44.584Z"
+  },
+  "__v": 0
+}]

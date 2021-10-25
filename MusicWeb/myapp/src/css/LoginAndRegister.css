@@ -1,0 +1,9 @@
+
+.Form{
+    margin-top: 105px;
+    border-radius: 5px;
+    border: 10px solid #F8F8F8;
+    overflow: hidden;
+    padding: 20px;
+    background-color: #F8F8F8;
+}

@@ -1,0 +1,28 @@
+.heading h3{
+    margin-top: 10px;
+  }
+.card{
+    width: 250px !important;
+    box-shadow: 1px 2px 20px -5px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.5s, opacity 0.5s;
+}
+.card-song{
+position: relative;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-direction: row;
+flex-direction: row;
+min-width: 0;
+word-wrap: break-word;
+background-color: #fff;
+background-clip: border-box;
+border: 2px solid rgba(0,0,0,.125);
+border-radius: .25rem;
+}
+.card-img{
+    width: 25%;
+    height: 20%;
+}
+.card-heading{
+    margin-left: 10px;
+}

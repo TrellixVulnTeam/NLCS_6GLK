@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "60ad097571fea232c415d45b"
+  },
+  "playlists": [],
+  "name": "Một Bước Yêu Vạn Dặm Đau",
+  "isPublic": true,
+  "audio": "1502019886813006440.mp3",
+  "img": "4d62b014dddf2702af85e1d14d5c0a0b.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-05-25T14:28:05.341Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T17:13:00.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad099e71fea232c415d45c"
+  },
+  "playlists": [],
+  "name": "Không Thể Cùng Nhau Suốt Kiếp",
+  "isPublic": true,
+  "audio": "7215197367342350016.mp3",
+  "img": "aa8fda2a5a1f6708b74744e1ca9b34c1.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-05-25T14:28:46.529Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T14:44:22.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad0a0a71fea232c415d45d"
+  },
+  "playlists": [],
+  "name": "Đừng Ai Nhắc Về Anh Ấy",
+  "isPublic": false,
+  "audio": "4232220630639580552.mp3",
+  "img": "673c044865350452518372c32c881aa0.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-05-25T14:30:34.657Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T14:44:26.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b64f461b33d20454d6f46e"
+  },
+  "playlists": [
+    {
+      "$oid": "60b64689e5c4bb22d8560008"
+    }
+  ],
+  "name": "Nước Ngoài",
+  "isPublic": true,
+  "audio": "9209888476581690230.mp3",
+  "img": "3e602dd0ab83a3a8c3f32309bb9a88f9_1460456703.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-01T15:16:22.373Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-01T15:16:57.100Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b6502c2cad6a279c9ebbb8"
+  },
+  "playlists": [
+    {
+      "$oid": "60b64689e5c4bb22d8560008"
+    }
+  ],
+  "name": "Hồi Ức",
+  "isPublic": true,
+  "audio": "3390198064847989111.mp3",
+  "img": "ffd96dc18d252825cb591e255ddc6dbd_1513860881.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-01T15:20:12.491Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-10T06:56:51.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b653e9578a730ccc888686"
+  },
+  "playlists": [
+    {
+      "$oid": "60c8d4d28132eb195c113a98"
+    }
+  ],
+  "name": "Tự Dưng",
+  "isPublic": true,
+  "audio": "4774210304821838438.mp3",
+  "img": "d22f128a481e3e0efd37e55ec8e075d1_1481771134.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-01T15:36:09.606Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T15:00:11.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8d19c4caed628242d30bc"
+  },
+  "playlists": [],
+  "name": "Có Chàng Trai Viết Lên Cây",
+  "isPublic": true,
+  "audio": "2675035284037628448.mp3",
+  "img": "ffd96dc18d252825cb591e255ddc6dbd_1513860881 (1).jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-15T16:13:16.436Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T17:37:11.133Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c8e3caa5370627e88d9381"
+  },
+  "playlists": [
+    {
+      "$oid": "60c8d4d28132eb195c113a98"
+    }
+  ],
+  "name": "Xin Lỗi",
+  "isPublic": true,
+  "audio": "[laylink.vip] Xin Lỗi.mp3",
+  "img": "c588e9f821aea07769aa9b6cbebf7e5d_1513227340.jpg",
+  "user": {
+    "$oid": "60ad035bf1384b244c0b56bc"
+  },
+  "createdAt": {
+    "$date": "2021-06-15T17:30:50.732Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T17:36:53.144Z"
+  },
+  "__v": 0
+}]
